@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CalculoFrete.Console/CalculoFrete.Console.csproj" />
+  <Project Path="CalculoFrete.Tests/CalculoFrete.Tests.csproj" />
+</Solution>
