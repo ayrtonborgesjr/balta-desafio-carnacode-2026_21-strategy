@@ -18,4 +18,8 @@
         <Using Include="Xunit"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\CalculoFrete.Console\CalculoFrete.Console.csproj" />
+    </ItemGroup>
+
 </Project>
